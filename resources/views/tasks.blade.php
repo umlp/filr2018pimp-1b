@@ -5,7 +5,7 @@
         <div class="col-sm-offset-2 col-sm-8">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    Nouvelle tâche
+                    Ajouter un lapinou
                 </div>
 
                 <div class="panel-body">
@@ -41,13 +41,13 @@
             @if (count($tasks) > 0)
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        Current Tasks
+                        Lapinous vivants
                     </div>
 
                     <div class="panel-body">
                         <table class="table table-striped task-table">
                             <thead>
-                                <th>Task</th>
+                                <th>Lapinou/th>
                                 <th>&nbsp;</th>
                             </thead>
                             <tbody>
@@ -62,7 +62,7 @@
                                                 {{ method_field('DELETE') }}
 
                                                 <button type="submit" class="btn btn-danger">
-                                                    <i class="fa fa-btn fa-trash"></i>Delete
+                                                    <i class="fa fa-btn fa-trash"></i>Tuer
                                                 </button>
                                             </form>
                                         </td>
