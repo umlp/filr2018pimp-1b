@@ -13,8 +13,6 @@
 
   <!-- Styles -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet">
-  {{--<link href="{{ elixir('css/app.css') }}" rel="stylesheet"> --}}
-  <link href="style.css" rel="stylesheet">
 
   <style>
     body {
@@ -23,6 +21,41 @@
 
     .fa-btn {
       margin-right: 6px;
+    }
+
+    #logo {
+        width: 50px ;
+    }
+
+    #nomSite {
+        display:inline ;
+    }
+
+    body{
+        background-color: #f8f9fa ;
+    }
+
+    nav{
+        margin-bottom: 10px ;
+        box-shadow: 1px 1px 1px 1px rgb(126, 125, 125) ;
+    }
+
+    #bouton_co{
+        display: block ;
+        margin:auto ;
+    }
+
+    .inline_centre{
+        display: block ;
+        margin:auto ;
+    }
+
+    #connexion{
+        border-width: 3px ;
+        border-radius: 5px ;
+        box-shadow: 2px 2px 100px 5px rgb(126, 125, 125) ;
+        padding: 10px ;
+        background-color: white ;
     }
   </style>
 </head>
