@@ -13,10 +13,8 @@
 
   <!-- Styles -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet">
-  <!-- {{--<link href="{{ elixir('css/app.css') }}" rel="stylesheet"> --}} -->
-  <link href="style.css" rel="stylesheet"> 
-  <link href="../style.css" rel="stylesheet"> 
-
+  {{--<link href="{{ elixir('css/app.css') }}" rel="stylesheet"> --}}
+  <link href="style.css" rel="stylesheet">
 
   <style>
     body {
@@ -32,7 +30,6 @@
 <body id="app-layout">
 
 
-  <-- barre de menu -->
   <nav class="navbar navbar-fixed-top navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="#">
       <img src="ressources/gobelet_bleu.png" width="30" class="d-inline-block align-top" alt=""> INSA Toolkit
