@@ -26,7 +26,7 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <img src="ressources/gobelet_bleu.png" alt="">
+            <img src="https://i.imgur.com/OgakzO0.png" alt="">
         </div>
 
     </div>

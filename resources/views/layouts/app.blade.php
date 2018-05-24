@@ -65,7 +65,7 @@
 
   <nav class="navbar navbar-fixed-top navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="#">
-      <img src="ressources/gobelet_bleu.png" width="30" class="d-inline-block align-top" alt=""> INSA Toolkit
+      <img src="https://i.imgur.com/OgakzO0.png" width="30" class="d-inline-block align-top" alt=""> INSA Toolkit
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
       aria-label="Toggle navigation">
