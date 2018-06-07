@@ -26,7 +26,7 @@ function connexion(){
 function erreur () {
     if( isset($_POST['log_in']) || isset($_POST['mdp']) ){
 
-            echo '<div class="invalid-feedback" style="display:inline">Vous n\'avez pas rentré le bon login/mot de passe</div>' ;
+        echo '<div class="invalid-feedback" style="display:inline">Vous n\'avez pas rentré le bon login/mot de passe</div>' ;
 
     }
 }
